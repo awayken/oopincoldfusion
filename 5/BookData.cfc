@@ -2,11 +2,11 @@
 *
 * @file  /Applications/ColdFusion10/cfusion/wwwroot/oopincoldfusion/5/BookData.cfc
 * @author  Miles Rausch
-* @description Book data façade.
+* @description Book data access.
 *
 */
 
-component output="false" displayname="Book Data Façade"  {
+component output="false" displayname="Book Data Access"  {
 
 	property name="datasource" type="string";
 
